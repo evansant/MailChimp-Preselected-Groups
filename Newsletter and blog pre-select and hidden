@@ -27,7 +27,7 @@
 	<label for="mce-ORG">Organization </label>
 	<input type="text" value="" name="ORG" class="" id="mce-ORG">
 </div>
-<div class="mc-field-group input-group" style="display:none">
+<div class="mc-field-group input-group">
     <strong>Collateral send </strong> 
     <ul><li><input type="checkbox" value="1" name="group[11141][1]" id="mce-group[11141]-11141-0" checked><label for="mce-group[11141]-11141-0">Sign me up for your newsletter</label></li>
 <li><input type="checkbox" value="2" name="group[11141][2]" id="mce-group[11141]-11141-1" checked><label for="mce-group[11141]-11141-1">Sign me up for your blog</label></li>
